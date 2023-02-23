@@ -43,51 +43,11 @@
   position: sticky;
   top: 0;
   width: 100%;
-
 }
+
 .navbar2 li {
   color: #fff;
   text-align: center;
-<<<<<<< HEAD
-  padding: 3px 10px;
-  text-decoration: none;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Image hover effect */
-.opladning1 {
-  position:relative;
-  width: 471px;
-  height: 471px;
-  margin-left: 900px;
-  
-
-
-}
-
-=======
   margin: 12px;
   font-size: 13px;
   display: inline;
@@ -102,4 +62,16 @@
 .active {
   border-bottom: #fff;
 }
->>>>>>> 7566fc243330c21d9e2e0b733c29a4892ed3e88a
+
+/* Image hover effect */
+.opladning1 {
+  position:relative;
+  width: 471px;
+  height: 471px;
+  margin-left: 900px;
+  
+
+
+}
+
+ 
