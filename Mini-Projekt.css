@@ -1,25 +1,57 @@
-.nm-mediatext-combination-fullwidth-image {
-    position: relative;
-  }
-  
-  .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: black;
-    opacity: 0;
-    transition: opacity 0.5s ease;
-  }
-  
-  .text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-align: center;
-    padding: 20px;
-    background-color: rgba(0, 0, 0, 0.7);
-    z-index: 1;
-  }
-  
+
+/* Navbar container */
+.navbar {
+ overflow: hidden;
+ background-color: white;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+/* Links inside the navbar */
+  float: left;
+  font-size: 17px;
+  color: #333;
+  text-align: center;
+  padding: 3px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  outline: none;
+  color: #333;
+  padding: 9px 12px;
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+}
+
+/* Background color on the hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: rgb(219, 217, 217);
+}
+
+/* Background color to dropdown link on hover */
+.dropdown-content a:hover {
+  background-color: rgb(223, 217, 217);
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: inline-block;
+}
+
+/* Logo */
+.logo {
+  text-align: left;
+}
+
+.head-pic {
+ padding-top: 1.5pc;
+}
