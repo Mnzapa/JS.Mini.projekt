@@ -36,10 +36,28 @@
 }
 
 .navbar2 {
-  float: inline-start;
-  font-size: 17px;
-  color: #646262;
+  background-color: black;
+  padding: 0.2pc;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+
+}
+.navbar2 li {
+  color: #fff;
   text-align: center;
-  padding: 3px 10px;
-  text-decoration: none;
+  margin: 12px;
+  font-size: 13px;
+  display: inline;
+  text-decoration:none
+}
+
+.navbar-mere {
+  float: right;
+  font-size: 16px;
+}
+
+.active {
+  border-bottom: #fff;
 }
