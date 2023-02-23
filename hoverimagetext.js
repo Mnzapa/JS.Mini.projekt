@@ -1,4 +1,4 @@
-// Alle billede elementerne
+// Alle billede elementerne indsættes her
 const images = document.querySelectorAll('.nm-mediatext-combination-fullwidth-image picture');
 
 // Loop gennem hvert billede
