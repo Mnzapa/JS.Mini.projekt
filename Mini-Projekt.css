@@ -73,3 +73,92 @@
   height: 471px;
   margin-left: 900px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Tips til opladning */
+/* heading */
+.opladning1 {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+/* image */
+.opladning2 {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  width: 550px;
+  height: 550px;
+}
+/* paragragh */
+.opladning3 {
+  position:relative;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: -500px;
+
+  color: white;
+  font-size: large;
+  align-items:inherit;
+}
+
+/* button */
+.opladning4 {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width:200px;
+  font-size: medium;
+  
+}
+
+
+
+/* Tips til øget rækkevidde */
+
+/* Ladepunkter */
+
+/* Hybrodbiler */
